@@ -73,7 +73,7 @@ xychart-beta
 | Sep 2025 | ShipItSunday | [I Swear](https://github.com/inin-zou/damn-it) — Anti-procrastination betting | |
 | Aug 2025 | Hack Nation MIT | [BuzzLab](https://github.com/inin-zou/BuzzLab) — AI video creation platform | Finalist (VC phase) |
 | Aug 2025 | Pond Speedrun | [EmoHunter](https://github.com/inin-zou/EmoHunter-Pond_Hackathon) — Emotion detection + Apple Watch | 1st place ($50K funding) |
-| Jul 2025 | AMD Hackathon | Speculative prefill / GPU Mode | |
+| Jul 2025 | AMD Hackathon | vLLM speculative prefill on AMD GPUs | |
 | Jun 2025 | RAISE Summit | [ServeTheVibe](https://github.com/inin-zou/ServeTheVibe) — Humming to music | 3rd place (solo) |
 | Jun 2025 | Dify Paris | Dify AI Agent | 1st place (solo) |
 | May 2025 | Phagos | [Genome Classification](https://github.com/inin-zou/Genome-Embedding-Classification) — Phage AI pipeline | |
