@@ -80,8 +80,8 @@ superpower: Going from 0 → demo in under 20 hours
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inin-zou&amp;theme=nord_dark" width="72%" />
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inin-zou&amp;theme=nord_dark" width="35%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?theme=nord_dark&amp;username=inin-zou" width="35%" />
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inin-zou&theme=nord_dark)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inin-zou&theme=nord_dark)
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inin-zou&amp;theme=nord_dark&amp;v=2" width="35%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inin-zou&amp;theme=nord_dark&amp;utcOffset=1" width="35%" />
