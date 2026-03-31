@@ -105,7 +105,7 @@ xychart-beta
 | 2026.02 | Gemini Hackathon | [SherlockOS](https://github.com/inin-zou/SherlockOS) — Spatio-temporal deduction engine | |
 | 2026.02 | TechEurope Paris | [Rewind](https://github.com/inin-zou/Rewind) — Memory revisiting in 3D | |
 | 2025.12 | Project ElevenLabs | [VideoStack](https://github.com/VideoStack-PE/videostack-elevenlabs) — AI-powered video creation platform | 87K EUR early interest funding |
-| 2025.11 | Junction | [Lumina](https://github.com/cesp99/lumina-frontend) — Smart lighting & energy dashboard | |
+| 2025.11 | Junction | [Lumina](https://github.com/cesp99/lumina-frontend) — CISO-ready vulnerability intelligence system | |
 | 2025.10 | Entrepreneurs First | [Deep Search API](https://github.com/Rodrigotari1/deep_research_ef) — AI deep research | 1st place |
 | 2025.10 | Big Berlin | [Wiggly](https://github.com/Konsequanzheng/wiggle) — AI 3D T-shirt design | |
 | 2025.09 | Datacraft | [Le Scribe Royal](https://github.com/dorianlagadec/hackathoh-versailles) — AI assistant for Versailles | 3rd place |
@@ -120,7 +120,7 @@ xychart-beta
 | 2025.05 | Phagos | [Genome Classification](https://github.com/inin-zou/Genome-Embedding-Classification) — Phage AI pipeline | |
 | 2025.04 | From RAG to Agentic AI | [OnTrack](https://github.com/briacSck/ON-TRACKS-AI-Agents-Hackathon-) — Agentic AI task tracker | 2nd place |
 | 2025.02 | GeoAI Hack | [InstaGeo](https://github.com/inin-zou/InstaGeo-E2E-Geospatial-ML) — Geospatial ML | |
-| 2025.02 | Doctolib | [HealthOdyssey](https://github.com/inin-zou/HealthOdyssey) — Gamified health journey platform | |
+| 2025.02 | Doctolib | [HealthOdyssey](https://github.com/inin-zou/HealthOdyssey) — OneHealth early warning dashboard for food safety & public health | |
 | 2024.11 | Quantum Challenge | [ZenQ](https://github.com/inin-zou/ZenQuantum) — Quantum CNN for Perceval | Finalist (2nd phase) |
 | 2024.11 | SpotOn: Edge Device Hackathon | [Recipe Recommendation](https://github.com/Lucine1998/Recipe-Recommandation) — ML-powered recipe suggestions on edge device | |
 
