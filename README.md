@@ -80,40 +80,30 @@ superpower: Going from 0 → demo in under 20 hours
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=inin-zou&amp;show_icons=true&amp;theme=github_dark&amp;border_color=30363d&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;include_all_commits=true&amp;count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inin-zou&amp;layout=compact&amp;theme=github_dark&amp;border_color=30363d&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=inin-zou&amp;show_icons=true&amp;theme=github_dark&amp;border_color=30363d&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;include_all_commits=true&amp;count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inin-zou&amp;layout=compact&amp;theme=github_dark&amp;border_color=30363d&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8" height="150" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=inin-zou&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)
+<img src="https://streak-stats.demolab.com/?user=inin-zou&amp;theme=github-dark-blue&amp;border=30363d&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=8b949e" height="150" />
 
-</div>
-
----
-
-## Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inin-zou&amp;theme=tokyonight" width="100%" />
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inin-zou&amp;theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inin-zou&amp;theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inin-zou&amp;theme=tokyonight" width="72%" />
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inin-zou&amp;theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inin-zou&amp;theme=tokyonight&amp;utcOffset=1" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inin-zou&amp;theme=tokyonight" width="35%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inin-zou&amp;theme=tokyonight" width="35%" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inin-zou&amp;theme=tokyonight" width="35%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inin-zou&amp;theme=tokyonight&amp;utcOffset=1" width="35%" />
 
-</div>
-
----
-
-## Activity Graph
+<br/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inin-zou&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true)
+
+</div>
 
 ---
 
