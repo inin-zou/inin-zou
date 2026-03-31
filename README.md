@@ -45,7 +45,7 @@ superpower: Going from 0 → demo in under 20 hours
 
 ## Hackathons
 
-> *25 hackathons. 9 wins. Always shipping.*
+> *24 hackathons. 9 wins. Always shipping.*
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': {'lineColor': '#58a6ff', 'primaryColor': '#1f6feb'}}}%%
@@ -53,7 +53,7 @@ xychart-beta
     title "Hackathons per Quarter"
     x-axis ["Q4 2024", "Q1 2025", "Q2 2025", "Q3 2025", "Q4 2025", "Q1 2026"]
     y-axis "Hackathons" 0 --> 8
-    line [2, 2, 5, 7, 4, 5]
+    line [2, 2, 4, 7, 4, 5]
 ```
 
 | Date | Hackathon | Project | Result |
@@ -76,7 +76,6 @@ xychart-beta
 | Jul 2025 | AMD Hackathon | Speculative prefill / GPU Mode | |
 | Jun 2025 | RAISE Summit | [ServeTheVibe](https://github.com/inin-zou/ServeTheVibe) — Humming to music | 3rd place (solo) |
 | Jun 2025 | Dify Paris | Dify AI Agent | 1st place (solo) |
-| Jun 2025 | HuggingFace MCP | Vibe Jamming AI MCP | |
 | May 2025 | Phagos | [Genome Classification](https://github.com/inin-zou/Genome-Embedding-Classification) — Phage AI pipeline | |
 | Apr 2025 | From RAG to Agentic AI | [OnTrack](https://github.com/briacSck/ON-TRACKS-AI-Agents-Hackathon-) | 2nd place |
 | Feb 2025 | GeoAI Hack | [InstaGeo](https://github.com/inin-zou/InstaGeo-E2E-Geospatial-ML) — Geospatial ML | |
