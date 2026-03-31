@@ -99,13 +99,13 @@ superpower: Going from 0 → demo in under 20 hours
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inin-zou&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inin-zou&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inin-zou&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inin-zou&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inin-zou&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inin-zou&theme=tokyonight" width="100%" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inin-zou&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inin-zou&theme=tokyonight" width="48%" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inin-zou&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inin-zou&theme=tokyonight&utcOffset=1" width="48%" />
 
 </div>
 
