@@ -84,7 +84,28 @@ superpower: Going from 0 → demo in under 20 hours
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=inin-zou&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inin-zou&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" />
+
+<br/>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=inin-zou&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)
+
+</div>
+
+---
+
+## Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inin-zou&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inin-zou&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inin-zou&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inin-zou&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inin-zou&theme=github_dark" />
 
 </div>
 
@@ -93,6 +114,20 @@ superpower: Going from 0 → demo in under 20 hours
 ## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inin-zou&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true)
+
+---
+
+## Contribution Animations
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inin-zou/inin-zou/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inin-zou/inin-zou/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/inin-zou/inin-zou/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
 
 ---
 
