@@ -91,10 +91,11 @@ mindmap
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': {'lineColor': '#58a6ff', 'primaryColor': '#1f6feb'}}}%%
 xychart-beta
-    title "Hackathons per Quarter"
+    title "Hackathons & Wins per Quarter"
     x-axis ["Q4 2024", "Q1 2025", "Q2 2025", "Q3 2025", "Q4 2025", "Q1 2026"]
-    y-axis "Hackathons" 0 --> 8
+    y-axis "Count" 0 --> 8
     line [2, 2, 4, 7, 4, 5]
+    bar [0, 0, 3, 3, 2, 1]
 ```
 
 | Date | Hackathon | Project | Result |
