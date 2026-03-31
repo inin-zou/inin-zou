@@ -46,7 +46,7 @@ superpower: Going from 0 → demo in under 20 hours
 ## Domains I Explore
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
+%%{init: {'theme': 'neutral'}}%%
 mindmap
   root((AI Engineering))
     Spatial Intelligence & 3D World Models
@@ -148,7 +148,7 @@ xychart-beta
 
 ### Let's build something together
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yongkang.zou@outlook.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yongkang.zou1999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yongkang-zou)
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yongkang-zou-portfolio.vercel.app)
 
