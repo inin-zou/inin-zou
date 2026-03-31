@@ -104,8 +104,8 @@ xychart-beta
 | Feb 2026 | HackEurope | [YourPath](https://github.com/CodyAdam/your-path) — AI interactive video game | |
 | Feb 2026 | Gemini Hackathon | [SherlockOS](https://github.com/inin-zou/SherlockOS) — Spatio-temporal deduction engine | |
 | Feb 2026 | TechEurope Paris | [Rewind](https://github.com/inin-zou/Rewind) — Memory revisiting in 3D | |
-| Dec 2025 | Project ElevenLabs | [VideoStack](https://github.com/VideoStack-PE/videostack-elevenlabs) | 87K EUR early interest funding |
-| Nov 2025 | Junction | [Lumina](https://github.com/cesp99/lumina-frontend) | |
+| Dec 2025 | Project ElevenLabs | [VideoStack](https://github.com/VideoStack-PE/videostack-elevenlabs) — AI-powered video creation platform | 87K EUR early interest funding |
+| Nov 2025 | Junction | [Lumina](https://github.com/cesp99/lumina-frontend) — Smart lighting & energy dashboard | |
 | Oct 2025 | Entrepreneurs First | [Deep Search API](https://github.com/Rodrigotari1/deep_research_ef) — AI deep research | 1st place |
 | Oct 2025 | Big Berlin | [Wiggly](https://github.com/Konsequanzheng/wiggle) — AI 3D T-shirt design | |
 | Sep 2025 | Datacraft | [Le Scribe Royal](https://github.com/dorianlagadec/hackathoh-versailles) — AI assistant for Versailles | 3rd place |
@@ -116,13 +116,13 @@ xychart-beta
 | Aug 2025 | Pond Speedrun | [EmoHunter](https://github.com/inin-zou/EmoHunter-Pond_Hackathon) — Emotion detection + Apple Watch | 1st place ($50K funding) |
 | Jul 2025 | AMD Hackathon | vLLM speculative prefill on AMD GPUs | |
 | Jun 2025 | RAISE Summit | [ServeTheVibe](https://github.com/inin-zou/ServeTheVibe) — Humming to music | 3rd place (solo) |
-| Jun 2025 | Dify Paris | Dify AI Agent | 1st place (solo) |
+| Jun 2025 | Dify Paris | Dify AI Agent — Agentic workflow automation | 1st place (solo) |
 | May 2025 | Phagos | [Genome Classification](https://github.com/inin-zou/Genome-Embedding-Classification) — Phage AI pipeline | |
-| Apr 2025 | From RAG to Agentic AI | [OnTrack](https://github.com/briacSck/ON-TRACKS-AI-Agents-Hackathon-) | 2nd place |
+| Apr 2025 | From RAG to Agentic AI | [OnTrack](https://github.com/briacSck/ON-TRACKS-AI-Agents-Hackathon-) — Agentic AI task tracker | 2nd place |
 | Feb 2025 | GeoAI Hack | [InstaGeo](https://github.com/inin-zou/InstaGeo-E2E-Geospatial-ML) — Geospatial ML | |
-| Feb 2025 | Doctolib | [HealthOdyssey](https://github.com/inin-zou/HealthOdyssey) | |
+| Feb 2025 | Doctolib | [HealthOdyssey](https://github.com/inin-zou/HealthOdyssey) — Gamified health journey platform | |
 | Nov 2024 | Quantum Challenge | [ZenQ](https://github.com/inin-zou/ZenQuantum) — Quantum CNN for Perceval | Finalist (2nd phase) |
-| Nov 2024 | Edge Device | [Recipe Recommendation](https://github.com/Lucine1998/Recipe-Recommandation) | |
+| Nov 2024 | Edge Device | [Recipe Recommendation](https://github.com/Lucine1998/Recipe-Recommandation) — ML-powered recipe suggestions on edge | |
 
 ---
 
