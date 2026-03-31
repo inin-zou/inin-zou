@@ -43,6 +43,43 @@ superpower: Going from 0 → demo in under 20 hours
 
 ---
 
+## Domains I Explore
+
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+mindmap
+  root((AI Engineering))
+    Spatial Intelligence & 3D World Models
+      Dianoia
+      Rewind
+      SherlockOS
+    Music & Audio AI
+      Musixtral
+      GitBeat
+      ServeTheVibe
+    LLM Infrastructure
+      vLLM Speculative Prefill
+      Deep Search API
+    Healthcare & Biotech
+      HealthOdyssey
+      Elly
+      Genome Classification
+    Quantum Computing
+      ZenQ
+    Emotion & Vision AI
+      EmoHunter
+      YourPath
+      Ethos Studio
+    Geospatial ML
+      InstaGeo
+    Creative AI & Content
+      BuzzLab
+      VideoStack
+      Wiggly
+```
+
+---
+
 ## Hackathons
 
 > *24 hackathons. 9 wins. Always shipping.*
