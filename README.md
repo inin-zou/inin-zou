@@ -88,15 +88,9 @@ mindmap
 
 > *24 hackathons. 9 wins. Always shipping.*
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'lineColor': '#58a6ff', 'primaryColor': '#1f6feb'}}}%%
-xychart-beta
-    title "Hackathons & Wins per Quarter"
-    x-axis ["Q4 2024", "Q1 2025", "Q2 2025", "Q3 2025", "Q4 2025", "Q1 2026"]
-    y-axis "Count" 0 --> 8
-    line [2, 2, 4, 7, 4, 5]
-    bar [0, 0, 3, 3, 2, 1]
-```
+<div align="center">
+<img src="https://quickchart.io/chart?c=%7Btype%3A%27line%27%2Cdata%3A%7Blabels%3A%5B%27Q4+2024%27%2C%27Q1+2025%27%2C%27Q2+2025%27%2C%27Q3+2025%27%2C%27Q4+2025%27%2C%27Q1+2026%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Cumulative+Wins%27%2Cdata%3A%5B0%2C0%2C3%2C6%2C8%2C9%5D%2CborderColor%3A%27%2358a6ff%27%2CbackgroundColor%3A%27rgba(88%2C166%2C255%2C0.1)%27%2Cfill%3Atrue%2Ctension%3A0.4%2CpointBackgroundColor%3A%27%2358a6ff%27%2CpointRadius%3A5%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Btitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Hackathon+Wins+Over+Time%27%2Ccolor%3A%27%23c9d1d9%27%2Cfont%3A%7Bsize%3A16%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Bx%3A%7Bticks%3A%7Bcolor%3A%27%238b949e%27%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%238b949e%27%2CstepSize%3A1%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%2Cmin%3A0%2Cmax%3A10%7D%7D%7D%7D&backgroundColor=%230d1117&width=600&height=300" width="70%" />
+</div>
 
 | Date | Hackathon | Project | Result |
 |------|-----------|---------|--------|
