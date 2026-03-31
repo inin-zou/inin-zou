@@ -63,7 +63,7 @@ xychart-beta
 | Feb 2026 | HackEurope | [YourPath](https://github.com/CodyAdam/your-path) — AI interactive video game | |
 | Feb 2026 | Gemini Hackathon | [SherlockOS](https://github.com/inin-zou/SherlockOS) — Spatio-temporal deduction engine | |
 | Feb 2026 | TechEurope Paris | [Rewind](https://github.com/inin-zou/Rewind) — Memory revisiting in 3D | |
-| Dec 2025 | Project ElevenLabs | [VideoStack](https://github.com/VideoStack-PE/videostack-elevenlabs) | |
+| Dec 2025 | Project ElevenLabs | [VideoStack](https://github.com/VideoStack-PE/videostack-elevenlabs) | 87K EUR early interest funding |
 | Nov 2025 | Junction | [Lumina](https://github.com/cesp99/lumina-frontend) | |
 | Oct 2025 | Entrepreneurs First | [Deep Search API](https://github.com/Rodrigotari1/deep_research_ef) — AI deep research | 1st place |
 | Oct 2025 | Big Berlin | [Wiggly](https://github.com/Konsequanzheng/wiggle) — AI 3D T-shirt design | |
