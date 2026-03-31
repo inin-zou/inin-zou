@@ -1,14 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Yongkang%20ZOU&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20AI%20Agents%20%7C%20Multimodal%20AI%20%7C%209x%20Hackathon%20Winner&descSize=18&descColor=8b949e&descAlignY=55)
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+that+solve+real+problems;9x+AI+Hackathon+Winner+%F0%9F%8F%86;From+zero+to+demo+in+under+20+hours;TypeScript+%7C+Python+%7C+Go)](https://git.io/typing-svg)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yongkang-zou-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yongkang-zou)
 [![Profile Views](https://komarev.com/ghpvc/?username=inin-zou&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/inin-zou)
-
-</div>
 
 ---
 
@@ -116,5 +108,3 @@ superpower: Going from 0 → demo in under 20 hours
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yongkang-zou-portfolio.vercel.app)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer)
