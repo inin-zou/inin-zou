@@ -108,15 +108,15 @@ mindmap
 | 2025.09 | Mistral AI MCP | [Musixtral](https://github.com/inin-zou/Musixtral) — AI music production via MCP | |
 | 2025.09 | ShipItSunday | [I Swear](https://github.com/inin-zou/damn-it) — Anti-procrastination betting | |
 | 2025.08 | Hack Nation MIT | [BuzzLab](https://github.com/inin-zou/BuzzLab) — AI video creation platform | Finalist (VC phase) |
-| 2025.08 | Pond Speedrun | [EmoHunter](https://github.com/inin-zou/EmoHunter-Pond_Hackathon) — Emotion detection + Apple Watch | 1st place ($50K funding) |
+| 2025.08 | Pond Speedrun | [EmoHunter](https://github.com/inin-zou/EmoHunter) — Emotion detection + Apple Watch | 1st place ($50K funding) |
 | 2025.07 | AMD Hackathon | vLLM speculative prefill on AMD GPUs | Finalist |
-| 2025.06 | RAISE Summit | [ServeTheVibe](https://github.com/inin-zou/ServeTheVibe) — Humming to music | 3rd place (solo) |
+| 2025.06 | RAISE Summit | [ServeTheVibe](https://github.com/inin-zou/ServeTheVibe---RAISE-Hackathon) — Humming to music | 3rd place (solo) |
 | 2025.06 | Dify Paris | Dify AI Agent — Agentic workflow automation | 1st place (solo) |
 | 2025.05 | Phagos | [Genome Classification](https://github.com/inin-zou/Genome-Embedding-Classification) — Phage AI pipeline | |
 | 2025.04 | From RAG to Agentic AI | [OnTrack](https://github.com/briacSck/ON-TRACKS-AI-Agents-Hackathon-) — Agentic AI task tracker | 2nd place |
 | 2025.02 | GeoAI Hack | [InstaGeo](https://github.com/inin-zou/InstaGeo-E2E-Geospatial-ML) — Geospatial ML | |
 | 2025.02 | Doctolib | [HealthOdyssey](https://github.com/inin-zou/HealthOdyssey) — OneHealth early warning dashboard for food safety & public health | |
-| 2024.11 | Quantum Challenge | [ZenQ](https://github.com/inin-zou/ZenQuantum) — Quantum CNN for Perceval | Finalist (2nd phase) |
+| 2024.11 | Quantum Challenge | [ZenQ](https://github.com/inin-zou/ZenQ) — Quantum CNN for Perceval | Finalist (2nd phase) |
 | 2024.11 | SpotOn: Edge Device Hackathon | [Recipe Recommendation](https://github.com/Lucine1998/Recipe-Recommandation) — ML-powered recipe suggestions on edge device | |
 
 ---
