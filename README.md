@@ -70,15 +70,3 @@ superpower: Going from 0 → demo in under 20 hours
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inin-zou&amp;theme=nord_dark&amp;utcOffset=1" width="35%" />
 
 </div>
-
----
-
-<div align="center">
-
-### Let's build something together
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yongkang.zou1999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yongkang-zou)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yongkang.dev/)
-
-</div>
