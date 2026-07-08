@@ -69,10 +69,6 @@ superpower: Going from 0 → demo in under 20 hours
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inin-zou&amp;theme=nord_dark&amp;v=2" width="35%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inin-zou&amp;theme=nord_dark&amp;utcOffset=1" width="35%" />
 
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inin-zou&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true)
-
 </div>
 
 ---
