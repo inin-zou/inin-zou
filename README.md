@@ -1,29 +1,16 @@
-## About Me
-
 <pre>
-name: Yongkang ZOU
-location: Paris, France
-role: AI Engineer
-focus: AI Agents, LLMs, Multimodal AI, MCP Servers
-hackathons_won: 12
-superpower: Going from 0 → demo in under 20 hours
-portfolio: <a href="https://yongkang.dev/">yongkang.dev</a>
-linkedin: <a href="https://linkedin.com/in/yongkang-zou">linkedin.com/in/yongkang-zou</a>
+╔════════════════════════ Hi there ════════════════════════╗ 🤓 <a href="https://yongkang.dev/">Yongkang ZOU</a>
+║ I'm an AI engineer living in <a href="https://www.google.com/maps/place/Paris">Paris, France</a>.              ║ ┣━━ 🤖 AI Agents &amp; MCP
+║                                                          ║ ┃   ┣━━ 🏆 <a href="https://github.com/cesp99/robinsun">Robinsun</a>
+║ I build AI agents, multimodal systems and MCP servers    ║ ┃   ┣━━ 🏆 <a href="https://github.com/inin-zou/kernelgen-challenge">KernelGen</a>
+║ - mostly at hackathons: 27 entered, 12 won in the        ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/Clio">Clio</a>
+║ last 12 months.                                          ║ ┣━━ 🎤 Voice &amp; Multimodal AI
+║                                                          ║ ┣━━ 🧠 Spatial Intelligence &amp; 3D
+║ My superpower: going from 0 to demo in under 20 hours.   ║ ┗━━ ⚡ 0 → demo in under 20 hours
+║                                                          ║
+║ Find me at <a href="https://yongkang.dev/">yongkang.dev</a> or on <a href="https://linkedin.com/in/yongkang-zou">LinkedIn</a>.                  ║
+╚══════════════════════════════════════════════════════════╝
 </pre>
-
-![Profile Views](https://komarev.com/ghpvc/?username=inin-zou&color=1f6feb)
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inin-zou&amp;theme=nord_dark" width="72%" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=inin-zou&amp;theme=github-dark-blue&amp;border=30363d&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=8b949e" height="150" />
-
-</div>
-
----
 
 ## Hackathons
 
@@ -62,3 +49,5 @@ linkedin: <a href="https://linkedin.com/in/yongkang-zou">linkedin.com/in/yongkan
 | 2025.02 | Doctolib | [HealthOdyssey](https://github.com/inin-zou/HealthOdyssey) — OneHealth early warning dashboard for food safety & public health | |
 | 2024.11 | Quantum Challenge | [ZenQ](https://github.com/inin-zou/ZenQ) — Quantum CNN for Perceval | Finalist (2nd phase) |
 | 2024.11 | SpotOn: Edge Device Hackathon | [Recipe Recommendation](https://github.com/Lucine1998/Recipe-Recommandation) — ML-powered recipe suggestions on edge device | |
+
+![Profile Views](https://komarev.com/ghpvc/?username=inin-zou&color=1f6feb)
