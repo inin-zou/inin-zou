@@ -1,16 +1,15 @@
 ## About Me
 
-```yaml
+<pre>
 name: Yongkang ZOU
 location: Paris, France
 role: AI Engineer
 focus: AI Agents, LLMs, Multimodal AI, MCP Servers
 hackathons_won: 12
 superpower: Going from 0 → demo in under 20 hours
-```
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yongkang.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yongkang-zou)
+portfolio: <a href="https://yongkang.dev/">yongkang.dev</a>
+linkedin: <a href="https://linkedin.com/in/yongkang-zou">linkedin.com/in/yongkang-zou</a>
+</pre>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=inin-zou&color=1f6feb)
 
