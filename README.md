@@ -2,12 +2,11 @@
 ╔════════════════════════ Hi there ════════════════════════╗ 🤓 <a href="https://yongkang.dev/">Yongkang ZOU</a>
 ║ I'm an AI engineer living in Paris, France.              ║ ┣━━ 🤖 AI Agents &amp; MCP
 ║                                                          ║ ┃   ┣━━ 🏆 <a href="https://github.com/cesp99/robinsun">Robinsun</a>
-║ I build AI agents, multimodal systems and MCP servers    ║ ┃   ┣━━ 🏆 <a href="https://github.com/inin-zou/kernelgen-challenge">KernelGen</a>
-║ - mostly at hackathons: 27 entered, 12 won in the        ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/Clio">Clio</a>
-║ last 12 months.                                          ║ ┣━━ 🎤 Voice &amp; Multimodal AI
-║                                                          ║ ┣━━ 🧠 Spatial Intelligence &amp; 3D
-║ My superpower: going from 0 to demo in under 20 hours.   ║ ┗━━ ⚡ 0 → demo in under 20 hours
-║                                                          ║
+║ I build AI agents, multimodal systems and MCP servers.   ║ ┃   ┣━━ 🏆 <a href="https://github.com/inin-zou/kernelgen-challenge">KernelGen</a>
+║ 27 hackathons entered, 12 won in the last 12 months.     ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/Clio">Clio</a>
+║                                                          ║ ┣━━ 🎤 Voice &amp; Multimodal AI
+║ My superpower: going from 0 to demo in under 20 hours.   ║ ┣━━ 🧠 Spatial Intelligence &amp; 3D
+║                                                          ║ ┗━━ ⚡ 0 → demo in under 20 hours
 ║ Find me at <a href="https://yongkang.dev/">yongkang.dev</a> or on <a href="https://linkedin.com/in/yongkang-zou">LinkedIn</a>.                  ║
 ╚══════════════════════════════════════════════════════════╝
 </pre>
