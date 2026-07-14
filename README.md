@@ -15,6 +15,16 @@ superpower: Going from 0 → demo in under 20 hours
 
 ---
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inin-zou&amp;theme=nord_dark" width="72%" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=inin-zou&amp;theme=github-dark-blue&amp;border=30363d&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=8b949e" height="150" />
+
+</div>
+
+---
+
 ## Hackathons
 
 > *27 hackathons. 12 wins. in 12 months.*
@@ -52,21 +62,3 @@ superpower: Going from 0 → demo in under 20 hours
 | 2025.02 | Doctolib | [HealthOdyssey](https://github.com/inin-zou/HealthOdyssey) — OneHealth early warning dashboard for food safety & public health | |
 | 2024.11 | Quantum Challenge | [ZenQ](https://github.com/inin-zou/ZenQ) — Quantum CNN for Perceval | Finalist (2nd phase) |
 | 2024.11 | SpotOn: Edge Device Hackathon | [Recipe Recommendation](https://github.com/Lucine1998/Recipe-Recommandation) — ML-powered recipe suggestions on edge device | |
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=inin-zou&amp;theme=github-dark-blue&amp;border=30363d&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=8b949e" height="150" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inin-zou&amp;theme=nord_dark" width="72%" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inin-zou&amp;theme=nord_dark" width="35%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inin-zou&amp;theme=nord_dark&amp;_=20260331" width="35%" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inin-zou&amp;theme=nord_dark&amp;v=2" width="35%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inin-zou&amp;theme=nord_dark&amp;utcOffset=1" width="35%" />
-
-</div>
