@@ -11,7 +11,8 @@ superpower: Going from 0 → demo in under 20 hours
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yongkang.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yongkang-zou)
-[![Profile Views](https://komarev.com/ghpvc/?username=inin-zou&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/inin-zou)
+
+![Profile Views](https://komarev.com/ghpvc/?username=inin-zou&color=1f6feb)
 
 ---
 
