@@ -1,6 +1,6 @@
 <pre>
 ╔════════════════════════ Hi there ════════════════════════╗ 🤓 <a href="https://yongkang.dev/">Yongkang ZOU</a>
-║ I'm an AI engineer living in <a href="https://www.google.com/maps/place/Paris">Paris, France</a>.              ║ ┣━━ 🤖 AI Agents &amp; MCP
+║ I'm an AI engineer living in Paris, France.              ║ ┣━━ 🤖 AI Agents &amp; MCP
 ║                                                          ║ ┃   ┣━━ 🏆 <a href="https://github.com/cesp99/robinsun">Robinsun</a>
 ║ I build AI agents, multimodal systems and MCP servers    ║ ┃   ┣━━ 🏆 <a href="https://github.com/inin-zou/kernelgen-challenge">KernelGen</a>
 ║ - mostly at hackathons: 27 entered, 12 won in the        ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/Clio">Clio</a>
