@@ -2,15 +2,15 @@
 ╔════════════════════════ Hi there ════════════════════════╗ 🤓 <a href="https://yongkang.dev/">Yongkang</a>
 ║ I'm an AI engineer based in Paris.                       ║ ┣━━ 🤖 AI Agents &amp; MCP
 ║                                                          ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/Clio">Clio</a> - speech-to-speech voice agent framework
-║ I started my career in the AI-native era, but I          ║ ┣━━ ⚙️ AI Infra
-║ still grind LeetCode - don't want my brain to rust.      ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/kernelgen-challenge">KernelGen</a> - won the kernel optimization
-║                                                          ║ ┃          competition with a heuristic agent method
-║ I want a broad view of tech, so I try everything         ║ ┗━━ 🧠 Spatial Intelligence
-║ that interests me at hackathons - avoiding GPT           ║     ┗━━ 🏆 <a href="https://github.com/inin-zou/Dianoia">Dianoia</a> - AI detective system
-║ wrappers, building things that truly make use of AI.     ║
-║ (My study philosophy: BFS -> DFS.)                       ║
+║ My way of learning is BFS -> DFS.                        ║ ┣━━ ⚙️ AI Infra
+║                                                          ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/kernelgen-challenge">KernelGen</a> - won the kernel optimization
+║ BFS at hackathons: I try everything that interests       ║ ┃          competition with a heuristic agent method
+║ me - no GPT wrappers, only things that truly make        ║ ┗━━ 🧠 Spatial Intelligence
+║ use of AI. Won a few along the way :)                    ║     ┗━━ 🏆 <a href="https://github.com/inin-zou/Dianoia">Dianoia</a> - AI detective system
 ║                                                          ║
-║ I won some hackathons, but I build more than that :)     ║
+║ DFS at work: shipping production-grade agent             ║
+║ systems - multi-agent orchestration, MCP, AI infra       ║
+║ that real users depend on.                               ║
 ║                                                          ║
 ║ Find me at <a href="https://yongkang.dev/">yongkang.dev</a> or on <a href="https://linkedin.com/in/yongkang-zou">LinkedIn</a>.                  ║
 ╚══════════════════════════════════════════════════════════╝
