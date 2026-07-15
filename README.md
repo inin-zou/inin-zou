@@ -16,9 +16,8 @@
 ╚══════════════════════════════════════════════════════════╝
 </pre>
 
-## Hackathons
-
-> *27 hackathons. 12 wins.*
+<details>
+<summary><b>🏆 Hackathons - 27 entered, 12 wins</b></summary>
 
 <div align="center">
 <img src="https://quickchart.io/chart?c=%7Btype%3A%27line%27%2Cdata%3A%7Blabels%3A%5B%27Q4+2024%27%2C%27Q1+2025%27%2C%27Q2+2025%27%2C%27Q3+2025%27%2C%27Q4+2025%27%2C%27Q1+2026%27%2C%27Q2+2026%27%2C%27Q3+2026%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Cumulative+Wins%27%2Cdata%3A%5B0%2C0%2C3%2C6%2C8%2C9%2C11%2C12%5D%2CborderColor%3A%27%2358a6ff%27%2CbackgroundColor%3A%27rgba(88%2C166%2C255%2C0.1)%27%2Cfill%3Atrue%2Ctension%3A0.4%2CpointBackgroundColor%3A%27%2358a6ff%27%2CpointRadius%3A5%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Btitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Hackathon+Wins+Over+Time%27%2Ccolor%3A%27%23c9d1d9%27%2Cfont%3A%7Bsize%3A16%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Bx%3A%7Bticks%3A%7Bcolor%3A%27%238b949e%27%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%238b949e%27%2CstepSize%3A1%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%2Cmin%3A0%2Cmax%3A14%7D%7D%7D%7D&backgroundColor=%230d1117&width=600&height=300" width="70%" />
@@ -53,5 +52,7 @@
 | 2025.02 | Doctolib | [HealthOdyssey](https://github.com/inin-zou/HealthOdyssey) — OneHealth early warning dashboard for food safety & public health | |
 | 2024.11 | Quantum Challenge | [ZenQ](https://github.com/inin-zou/ZenQ) — Quantum CNN for Perceval | Finalist (2nd phase) |
 | 2024.11 | SpotOn: Edge Device Hackathon | [Recipe Recommendation](https://github.com/Lucine1998/Recipe-Recommandation) — ML-powered recipe suggestions on edge device | |
+
+</details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=inin-zou&color=1f6feb)
