@@ -1,12 +1,12 @@
 <pre>
-╔════════════════════════ Hi there ════════════════════════╗ 🤓 <a href="https://yongkang.dev/">Yongkang ZOU</a>
+╔════════════════════════ Hi there ════════════════════════╗ 🤓 <a href="https://yongkang.dev/">Yongkang</a>
 ║ I'm an AI engineer based in Paris.                       ║ ┣━━ 🤖 AI Agents &amp; MCP
-║                                                          ║ ┃   ┣━━ 🏆 <a href="https://github.com/cesp99/robinsun">Robinsun</a>
-║ I started my career in the AI-native era, but I          ║ ┃   ┣━━ 🏆 <a href="https://github.com/inin-zou/kernelgen-challenge">KernelGen</a>
-║ still grind LeetCode - don't want my brain to rust.      ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/Clio">Clio</a>
-║                                                          ║ ┣━━ 🎤 Voice &amp; Multimodal AI
-║ I want a broad view of tech, so I try everything         ║ ┣━━ 🧠 Spatial Intelligence &amp; 3D
-║ that interests me at hackathons - avoiding GPT           ║ ┗━━ ⚡ 0 → demo in under 20 hours
+║                                                          ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/Clio">Clio</a> - speech-to-speech voice agent framework
+║ I started my career in the AI-native era, but I          ║ ┣━━ ⚙️ AI Infra
+║ still grind LeetCode - don't want my brain to rust.      ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/kernelgen-challenge">KernelGen</a> - won the kernel optimization
+║                                                          ║ ┃          competition with a heuristic agent method
+║ I want a broad view of tech, so I try everything         ║ ┗━━ 🧠 Spatial Intelligence
+║ that interests me at hackathons - avoiding GPT           ║     ┗━━ 🏆 <a href="https://github.com/inin-zou/Dianoia">Dianoia</a> - AI detective system
 ║ wrappers, building things that truly make use of AI.     ║
 ║ (My study philosophy: BFS -> DFS.)                       ║
 ║                                                          ║
