@@ -1,13 +1,16 @@
 <pre>
 ╔════════════════════════ Hi there ════════════════════════╗ 🤓 <a href="https://yongkang.dev/">Yongkang ZOU</a>
-║ I'm an AI engineer living in Paris, France.              ║ ┣━━ 🤖 AI Agents &amp; MCP
+║ I'm an AI engineer based in Paris.                       ║ ┣━━ 🤖 AI Agents &amp; MCP
 ║                                                          ║ ┃   ┣━━ 🏆 <a href="https://github.com/cesp99/robinsun">Robinsun</a>
-║ I build production-grade agent systems: multi-agent      ║ ┃   ┣━━ 🏆 <a href="https://github.com/inin-zou/kernelgen-challenge">KernelGen</a>
-║ orchestration, MCP infrastructure and multimodal         ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/Clio">Clio</a>
-║ pipelines running in the real world.                     ║ ┣━━ 🎤 Voice &amp; Multimodal AI
-║                                                          ║ ┣━━ 🧠 Spatial Intelligence &amp; 3D
-║ On weekends I speedrun hackathons - 12 wins in the       ║ ┗━━ ⚡ 0 → demo in under 20 hours
-║ last 12 months.                                          ║
+║ I started my career in the AI-native era, but I          ║ ┃   ┣━━ 🏆 <a href="https://github.com/inin-zou/kernelgen-challenge">KernelGen</a>
+║ still grind LeetCode - don't want my brain to rust.      ║ ┃   ┗━━ 🏆 <a href="https://github.com/inin-zou/Clio">Clio</a>
+║                                                          ║ ┣━━ 🎤 Voice &amp; Multimodal AI
+║ I want a broad view of tech, so I try everything         ║ ┣━━ 🧠 Spatial Intelligence &amp; 3D
+║ that interests me at hackathons - avoiding GPT           ║ ┗━━ ⚡ 0 → demo in under 20 hours
+║ wrappers, building things that truly make use of AI.     ║
+║ (My study philosophy: BFS -> DFS.)                       ║
+║                                                          ║
+║ I won some hackathons, but I build more than that :)     ║
 ║                                                          ║
 ║ Find me at <a href="https://yongkang.dev/">yongkang.dev</a> or on <a href="https://linkedin.com/in/yongkang-zou">LinkedIn</a>.                  ║
 ╚══════════════════════════════════════════════════════════╝
